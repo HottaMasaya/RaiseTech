@@ -1,4 +1,4 @@
-# RaiseTech　第二回講義　 
+# RaiseTech　第二回講義課題
 ## 学習内容
 - ***バージョン管理システム***、*SVN*と*Git*の違い。
 - *Markdown*方式の簡単な説明

@@ -1,6 +1,6 @@
 # RaiseTech　第二回講義　 
 ## 学習内容
-- バージョン管理システム、*SVN*と*Git*の違い。
+- ***バージョン管理システム***、*SVN*と*Git*の違い。
 - *Markdown*方式の簡単な説明
 - チーム開発におけるGitの運用方法(*Git-flow*と*GitHub-flow*)
 - その他、*Git*関連の*tips*
